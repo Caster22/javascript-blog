@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586521095338</updated>
       <workItem from="1586521098297" duration="568000" />
+      <workItem from="1586775504510" duration="2668000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
