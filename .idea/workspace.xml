@@ -36,7 +36,7 @@
       <updated>1586521095338</updated>
       <workItem from="1586521098297" duration="568000" />
       <workItem from="1586775504510" duration="6272000" />
-      <workItem from="1586857535731" duration="4908000" />
+      <workItem from="1586857535731" duration="5590000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586861717679</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add new links into left navbar">
+      <created>1586862505372</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586862505372</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,22 +116,23 @@
     <MESSAGE value="Remove &lt;li&gt; tag elements from &lt;ul class=&quot;list titles&quot;&gt;" />
     <MESSAGE value="Add selector for articles and get each one ID" />
     <MESSAGE value="Add code to create HMTL of the link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add code to create HMTL of the link" />
+    <MESSAGE value="Add new links into left navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new links into left navbar" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1136" y="386" key="CommitChangelistDialog2" timestamp="1586861716826">
+    <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1586862504575">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1136" y="386" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586861716826" />
+    <state x="1361" y="371" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586862504575" />
     <state x="4056" y="132" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521513628" />
     <state x="4285" y="249" key="RollbackChangesDialog" timestamp="1586521474728">
       <screen x="2560" y="-824" width="3840" height="2120" />
     </state>
     <state x="4285" y="249" key="RollbackChangesDialog/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521474728" />
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1586861719224">
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1586862507010">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586861719224" />
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586862507010" />
     <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
   </component>
 </project>

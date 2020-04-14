@@ -49,13 +49,6 @@
 
     }
 
-    const links = document.querySelectorAll('.titles a');
-
-    for (let link of links) {
-        link.addEventListener('click', titleClickHandler);
-    }
-
-
     const optArticleSelector = '.post',
         optTitleSelector = '.post-title',
         optTitleListSelector = '.titles';
@@ -83,12 +76,10 @@
             /* [DONE] get the title from the title element */
 
             const articleTitle = article.querySelector(optTitleSelector).innerHTML;
-            console.log(articleTitle);
 
             /* [DONE] create HTML of the link */
 
             const linkHTML = '<li><a href="#' + articleId + '"><span>' + articleTitle + '</span></a></li>';
-            console.log(linkHTML);
 
             /* [DONE] insert link into titleList */
 
@@ -96,6 +87,12 @@
         }
 
         titleList.innerHTML = html;
+
+        const links = document.querySelectorAll('.titles a');
+        console.log(links);
+        for (let link of links) {
+            link.addEventListener('click', titleClickHandler);
+        }
 
     }
 
