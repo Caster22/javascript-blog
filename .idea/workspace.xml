@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586521095338</updated>
       <workItem from="1586521098297" duration="568000" />
-      <workItem from="1586775504510" duration="5944000" />
+      <workItem from="1586775504510" duration="6272000" />
+      <workItem from="1586857535731" duration="1700000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -65,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586779977337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add 'active' class for targeted article">
+      <created>1586781616605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586781616605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,22 +85,23 @@
     <MESSAGE value="Add first selector and event listener to script.js" />
     <MESSAGE value="Add script for removing 'active' class from links and articles" />
     <MESSAGE value="Add script to get href of clicked link and add to it 'active' class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add script to get href of clicked link and add to it 'active' class" />
+    <MESSAGE value="Add 'active' class for targeted article" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 'active' class for targeted article" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1136" y="386" key="CommitChangelistDialog2" timestamp="1586779976497">
+    <state x="1136" y="386" key="CommitChangelistDialog2" timestamp="1586781615765">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1136" y="386" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586779976497" />
+    <state x="1136" y="386" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586781615765" />
     <state x="4056" y="132" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521513628" />
     <state x="4285" y="249" key="RollbackChangesDialog" timestamp="1586521474728">
       <screen x="2560" y="-824" width="3840" height="2120" />
     </state>
     <state x="4285" y="249" key="RollbackChangesDialog/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521474728" />
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1586779978787">
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1586781618075">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586779978787" />
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586781618075" />
     <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
   </component>
 </project>
