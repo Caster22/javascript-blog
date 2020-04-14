@@ -72,6 +72,8 @@
 
         const articles = document.querySelectorAll(optArticleSelector);
 
+        let html = '';
+
         for (let article of articles){
             /* [DONE] get the article id */
 
@@ -87,9 +89,13 @@
 
             const linkHTML = '<li><a href="#' + articleId + '"><span>' + articleTitle + '</span></a></li>';
             console.log(linkHTML);
+
+            /* [DONE] insert link into titleList */
+
+            html = html + linkHTML;
         }
 
-        /* insert link into titleList */
+        titleList.innerHTML = html;
 
     }
 
