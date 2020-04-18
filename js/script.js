@@ -90,7 +90,6 @@
     titleList.innerHTML = html;
 
     const links = document.querySelectorAll('.titles a');
-    console.log(links);
     for (let link of links) {
       link.addEventListener('click', titleClickHandler);
     }
@@ -100,25 +99,32 @@
   generateTitleLinks();
 
   function generateTags(){
-    /* find all articles */
+    /* [DONE] find all articles */
+
+    const articles = document.querySelectorAll('.post');
+    console.log(articles);
 
     /* START LOOP: for every article: */
 
-    /* find tags wrapper */
+    for (let article of articles){
 
-    /* make html variable with empty string */
+      /* find tags wrapper */
 
-    /* get tags from data-tags attribute */
+      /* make html variable with empty string */
 
-    /* split tags into array */
+      /* get tags from data-tags attribute */
 
-    /* START LOOP: for each tag */
+      /* split tags into array */
 
-    /* generate HTML of the link */
+      /* START LOOP: for each tag */
 
-    /* add generated code to html variable */
+      /* generate HTML of the link */
 
-    /* END LOOP: for each tag */
+      /* add generated code to html variable */
+
+      /* END LOOP: for each tag */
+
+    }
 
     /* insert HTML of all the links into the tags wrapper */
 
