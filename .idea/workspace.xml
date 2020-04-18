@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="Add editorconfig">
+    <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="Add data-tags">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <workItem from="1586521098297" duration="568000" />
       <workItem from="1586775504510" duration="6272000" />
       <workItem from="1586857535731" duration="5590000" />
-      <workItem from="1587217097410" duration="5166000" />
+      <workItem from="1587217097410" duration="5713000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587220729023</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add data-tags">
+      <created>1587222296757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587222296757</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +184,8 @@
     <MESSAGE value="Add new links into left navbar" />
     <MESSAGE value="Add Eslint" />
     <MESSAGE value="Add editorconfig" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add editorconfig" />
+    <MESSAGE value="Add data-tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add data-tags" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1586862504575">
@@ -192,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587219314546" />
-    <state x="731" y="506" key="Vcs.Push.Dialog.v2" timestamp="1587220730546">
+    <state x="731" y="506" key="Vcs.Push.Dialog.v2" timestamp="1587222299423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="506" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587220730546" />
+    <state x="731" y="506" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587222299423" />
     <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586862507010" />
     <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
     <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587220356725">
