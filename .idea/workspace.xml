@@ -19,14 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="Add Eslint">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +69,7 @@
       <workItem from="1586521098297" duration="568000" />
       <workItem from="1586775504510" duration="6272000" />
       <workItem from="1586857535731" duration="5590000" />
-      <workItem from="1587217097410" duration="2446000" />
+      <workItem from="1587217097410" duration="3592000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -137,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586862505372</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Eslint">
+      <created>1587219581783</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587219581783</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +169,8 @@
     <MESSAGE value="Add selector for articles and get each one ID" />
     <MESSAGE value="Add code to create HMTL of the link" />
     <MESSAGE value="Add new links into left navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new links into left navbar" />
+    <MESSAGE value="Add Eslint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Eslint" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1586862504575">
@@ -181,14 +186,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587219314546" />
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1586862507010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586862507010" />
-    <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
-    <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587219304771">
+    <state x="731" y="506" key="Vcs.Push.Dialog.v2" timestamp="1587219584171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587219304771" />
+    <state x="731" y="506" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587219584171" />
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586862507010" />
+    <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
+    <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587220356725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587220356725" />
   </component>
 </project>
