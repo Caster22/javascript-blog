@@ -104,17 +104,27 @@
     const articles = document.querySelectorAll('.post');
     console.log(articles);
 
-    /* START LOOP: for every article: */
+    /* [DONE] START LOOP: for every article: */
 
     for (let article of articles){
 
-      /* find tags wrapper */
+      /* [DONE] find tags wrapper */
 
-      /* make html variable with empty string */
+      const wrapper = article.querySelector(optArticleTagsSelector);
+      console.log(wrapper);
 
-      /* get tags from data-tags attribute */
+      /* [DONE] make html variable with empty string */
 
-      /* split tags into array */
+      let html = '';
+
+      /* [DONE] get tags from data-tags attribute */
+
+      const articleTags = article.getAttribute('data-tags');
+      console.log(articleTags);
+
+      /* [IN PROGRESS] split tags into array */
+
+
 
       /* START LOOP: for each tag */
 

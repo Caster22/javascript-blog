@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="Remove &lt;li&gt; tags from .post-tags">
+    <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +16,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aLi5yTjRzNoWOXOfWjYQEISBu4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -51,8 +31,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,7 +46,6 @@
       <workItem from="1586521098297" duration="568000" />
       <workItem from="1586775504510" duration="6272000" />
       <workItem from="1586857535731" duration="5590000" />
-      <workItem from="1587217097410" duration="6913000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -132,53 +110,13 @@
       <option name="project" value="LOCAL" />
       <updated>1586862505372</updated>
     </task>
-    <task id="LOCAL-00010" summary="Add Eslint">
-      <created>1587219581783</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1587219581783</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Add editorconfig">
-      <created>1587220729023</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1587220729023</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Add data-tags">
-      <created>1587222296757</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1587222296757</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Remove &lt;li&gt; tags from .post-tags">
-      <created>1587222886016</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1587222886016</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add sample code to index.html and style.scss" />
     <MESSAGE value="Add first selector and event listener to script.js" />
     <MESSAGE value="Add script for removing 'active' class from links and articles" />
@@ -188,11 +126,7 @@
     <MESSAGE value="Add selector for articles and get each one ID" />
     <MESSAGE value="Add code to create HMTL of the link" />
     <MESSAGE value="Add new links into left navbar" />
-    <MESSAGE value="Add Eslint" />
-    <MESSAGE value="Add editorconfig" />
-    <MESSAGE value="Add data-tags" />
-    <MESSAGE value="Remove &lt;li&gt; tags from .post-tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove &lt;li&gt; tags from .post-tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new links into left navbar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1586862504575">
@@ -204,19 +138,18 @@
       <screen x="2560" y="-824" width="3840" height="2120" />
     </state>
     <state x="4285" y="249" key="RollbackChangesDialog/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521474728" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1587219314546">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1587295594025">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587219314546" />
-    <state x="731" y="506" key="Vcs.Push.Dialog.v2" timestamp="1587222888731">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587295594025" />
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1586862507010">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="731" y="506" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587222888731" />
     <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1586862507010" />
     <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
-    <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587220356725">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587295588633">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1190" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587220356725" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587295588633" />
   </component>
 </project>
