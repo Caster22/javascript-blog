@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d948ecb1-e64e-4e97-8ff8-7c99997e5ea0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
       <workItem from="1586521098297" duration="568000" />
       <workItem from="1586775504510" duration="6272000" />
       <workItem from="1586857535731" duration="5590000" />
+      <workItem from="1587384674411" duration="6560000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587303436783</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add filter by tag function">
+      <created>1587319563164</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587319563164</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,13 +149,14 @@
     <MESSAGE value="Add new links into left navbar" />
     <MESSAGE value="Add Js code for data-tags attribute" />
     <MESSAGE value="Add function to insert tags into index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to insert tags into index.html" />
+    <MESSAGE value="Add filter by tag function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add filter by tag function" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1587303435633">
+    <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1587319562370">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1361" y="371" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587303435633" />
+    <state x="1361" y="371" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587319562370" />
     <state x="4056" y="132" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521513628" />
     <state x="4285" y="249" key="RollbackChangesDialog" timestamp="1586521474728">
       <screen x="2560" y="-824" width="3840" height="2120" />
@@ -156,11 +166,19 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587295594025" />
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1587303438323">
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1587319565117">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587303438323" />
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587319565117" />
     <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
+    <state x="929" y="315" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587388886066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="929" y="315" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587388886066" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1587386274596">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587386274596" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587317839195">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
