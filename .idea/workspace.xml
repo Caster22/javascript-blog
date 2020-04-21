@@ -45,7 +45,8 @@
       <workItem from="1586521098297" duration="568000" />
       <workItem from="1586775504510" duration="6272000" />
       <workItem from="1586857535731" duration="5590000" />
-      <workItem from="1587384674411" duration="10653000" />
+      <workItem from="1587384674411" duration="10867000" />
+      <workItem from="1587468028854" duration="2216000" />
     </task>
     <task id="LOCAL-00001" summary="Add sample code to index.html and style.scss">
       <created>1586521514414</created>
@@ -138,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587391937429</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add filtering by author">
+      <created>1587411017076</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587411017076</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,13 +166,14 @@
     <MESSAGE value="Add function to insert tags into index.html" />
     <MESSAGE value="Add filter by tag function" />
     <MESSAGE value="Add generateAuthors function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add generateAuthors function" />
+    <MESSAGE value="Add filtering by author" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add filtering by author" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1587391936310">
+    <state x="1361" y="371" key="CommitChangelistDialog2" timestamp="1587411016244">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1361" y="371" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587391936310" />
+    <state x="1361" y="371" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587411016244" />
     <state x="4056" y="132" key="CommitChangelistDialog2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521513628" />
     <state x="4285" y="249" key="RollbackChangesDialog" timestamp="1586521474728">
       <screen x="2560" y="-824" width="3840" height="2120" />
@@ -174,10 +183,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587295594025" />
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1587391938962">
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2" timestamp="1587411018409">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587391938962" />
+    <state x="975" y="723" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@0.0.2560.1400" timestamp="1587411018409" />
     <state x="4023" y="271" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-824.3840.2120@2560.-824.3840.2120" timestamp="1586521516395" />
     <state x="929" y="315" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587388886066">
       <screen x="0" y="0" width="2560" height="1400" />
