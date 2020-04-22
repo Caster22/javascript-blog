@@ -287,7 +287,7 @@
 
     /* [DONE] find all links to tags */
 
-    const links = document.querySelectorAll('.post-tags a');
+    const links = document.querySelectorAll('.post-tags a, .tags a');
 
     /* START LOOP: for each link */
 
