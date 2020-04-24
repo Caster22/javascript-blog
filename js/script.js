@@ -1,10 +1,9 @@
-/*document.getElementById('test-button').addEventListener('click', function(){
-    const links = document.querySelectorAll('.titles a');
-    console.log('links:', links);
-});
- */
+
 
 {
+  const templates = {
+    articleLink: Handlebars.compile(document.querySelector('#template-article-link').innerHTML)
+  };
 
   const titleClickHandler = function (event) {
     event.preventDefault();
@@ -76,10 +75,12 @@
       /* [DONE] get the title from the title element */
 
       const articleTitle = article.querySelector(optTitleSelector).innerHTML;
-
+      console.log(articleTitle);
       /* [DONE] create HTML of the link */
 
-      const linkHTML = '<li><a href="#' + articleId + '"><span>' + articleTitle + '</span></a></li>';
+      const linkHTMLData = {id: articleId, title: articleTitle};
+      console.log(linkHTMLData);
+      const linkHTML = templates.articleLink(linkHTMLData);
 
       /* [DONE] insert link into titleList */
 
@@ -150,7 +151,8 @@
       const articleTags = article.getAttribute('data-tags');       /* [DONE] get tags from data-tags attribute */
       const articleTagsArray = articleTags.split(' ');       /* [DONE] split tags into array */
       for (let tag of articleTagsArray){        /* [DONE] START LOOP: for each tag */
-        const linkHTML = '<li><a href="#tag-' + tag + '">' + tag + '</a></li>';          /* [DONE] generate HTML of the link */
+        const linkHTMLData = {'data-tags': articleTags, name: tag};          /* [DONE] generate HTML of the link */
+        console.log(linkHTMLData);
         html = html + linkHTML;          /* [DONE] add generated code to html variable */
         if (!allTags[tag]){          /* [NEW] check if this link is NOT already in allTags */
           allTags[tag] = 1;            /* [NEW] add tag to allTags object */
